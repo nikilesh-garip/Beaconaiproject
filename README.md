@@ -1,6 +1,5 @@
 
-  # Hackathon Project Proposal
-
+  # Hackathon Project Using Vibe Coding 
   This is a code bundle for Hackathon Project Proposal. The original project is available at https://www.figma.com/design/iXGOQR6fTp5w4KW1rZdvQN/Hackathon-Project-Proposal.
 
   ## Running the code
